@@ -1,1 +1,1 @@
-This repository will contain the games I create using Java
+This repository will contain my Java projects
