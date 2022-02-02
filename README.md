@@ -1,1 +1,1 @@
-This repository will contain my Java projects
+This repository contains my Java projects
